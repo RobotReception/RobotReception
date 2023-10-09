@@ -1,1 +1,4 @@
-
+ - type: web
+    name: sinatra
+    runtime: ruby
+    repo: https://github.com/renderinc/sinatra-example.git
