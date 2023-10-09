@@ -1,5 +1,5 @@
 fastapi==0.103.2
 langchain
-pinecone
+pinecone-client
 openai
 dotenv
