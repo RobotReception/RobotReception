@@ -1,5 +1,5 @@
 fastapi==0.103.2
-langchain==
+langchain
 pinecone==2.2.2
 openai==0.28.1
 dotenv==1.0.0
